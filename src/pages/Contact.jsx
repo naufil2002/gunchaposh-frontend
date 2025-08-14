@@ -17,6 +17,7 @@ const Contact = () => {
           <p className='font-semibold text-xl text-gray-600'>Online Store</p>
           <p className=' text-gray-500'>Mumbai, India</p>
           <p className=' text-gray-500'>Email: admin@gmail.com</p>
+          <p className=' text-gray-500'>Mobile: +91 7276025786</p>
           <p className='font-semibold text-xl text-gray-600'>Contact support</p>
           <p className='text-gray-500'>We’re here to help you with any questions or support</p>
           
